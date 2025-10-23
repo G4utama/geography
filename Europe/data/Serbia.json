@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Serbia",
+        "full_name": "Republic of Serbia",
+        "full_name_native": "Република Србија",
+        "code": "RS",
+        "continent": "Europe",
+        "capital": "Belgrade",
+        "language": "Serbian",
+        "area": 88000,
+        "population": 6567000,
+        "currency": "Serbian dinar (RSD)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Боже правде",
+
+        "flagColors": ["Red", "Blue", "White"],
+        "flagDate": "2004",
+        "flagRGB": ["198, 54, 60", "12, 64, 118", "255, 255, 255"]
+    }
+]

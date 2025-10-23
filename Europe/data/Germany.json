@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Germany",
+        "full_name": "Federal Republic of Germany",
+        "full_name_native": "Bundesrepublik Deutschland",
+        "code": "DE",
+        "continent": "Europe",
+        "capital": "Berlin",
+        "language": "German",
+        "area": 357000,
+        "population": 83491000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Das Lied der Deutschen",
+
+        "flagColors": ["Black", "Red", "Yellow"],
+        "flagDate": "03/07/1919",
+        "flagRGB": ["0, 0, 0", "221, 0, 0", "255, 204, 0"]
+    }
+]

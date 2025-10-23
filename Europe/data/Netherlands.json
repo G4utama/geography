@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Netherlands",
+        "full_name": "Netherlands",
+        "full_name_native": "Nederland",
+        "code": "NL",
+        "continent": "Europe",
+        "capital": "Amsterdam",
+        "language": "Dutch",
+        "area": 41000,
+        "population": 18449000,
+        "currency": "Euro",
+        "timezone": "UTC+01 (WET)",
+        "anthem": "Wilhelmus",
+
+        "flagColors": ["Red", "White", "Blue"],
+        "flagDate": "1575",
+        "flagRGB": ["200, 16, 46", "255, 255, 255", "0, 61, 165"]
+    }
+]

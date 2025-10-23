@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sweden",
+        "full_name": "Kingdom of Sweden",
+        "full_name_native": "Konungariket Sverige",
+        "code": "SE",
+        "continent": "Europe",
+        "capital": "Stockholm",
+        "language": "Swedish",
+        "area": 450000,
+        "population": 10588000,
+        "currency": "Swedish Krona (SEK)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Du gamla, Du fria",
+
+        "flagColors": ["Blue", "Yellow"],
+        "flagDate": "22/06/1906",
+        "flagRGB": ["0, 106, 167", "254, 204, 2"]
+    }
+]

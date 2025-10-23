@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Moldova",
+        "full_name": "Republic of Moldova",
+        "full_name_native": "Republica Moldova",
+        "code": "MD",
+        "continent": "Europe",
+        "capital": "Chișinău",
+        "language": "Romanian",
+        "area": 33000,
+        "population": 2381000,
+        "currency": "Moldovan leu (MDL)",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Limba Noastră",
+
+        "flagColors": ["Blue", "Yellow", "Red"],
+        "flagDate": "6/11/1990 ",
+        "flagRGB": ["0, 61, 165", "255, 209, 0", "200, 16, 46"]
+    }
+]

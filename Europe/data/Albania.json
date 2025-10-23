@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Albania",
+        "full_name": "Republic of Albania",
+        "full_name_native": "Republika e Shqipërisë",
+        "code": "AL",
+        "continent": "Europe",
+        "capital": "Tirana",
+        "language": "Albanian",
+        "area": 28000,
+        "population": 2402000,
+        "currency": "Lek (ALL)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Himni i Flamurit",
+
+        "flagColors": ["Red", "Black"],
+        "flagDate": "1443",
+        "flagRGB": ["218, 41, 28", "0, 0, 0"]
+    }
+]

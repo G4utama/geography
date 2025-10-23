@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Belgium",
+        "full_name": "Kingdom of Belgium",
+        "full_name_native": "Koninkrijk België",
+        "code": "BE",
+        "continent": "Europe",
+        "capital": "Brussels",
+        "language": "Dutch, French, German",
+        "area": 30000,
+        "population": 11825000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (WET)",
+        "anthem": "La Brabançonne",
+
+        "flagColors": ["Black", "Yellow", "Red"],
+        "flagDate": "23/01/1831",
+        "flagRGB": ["45, 41, 38", "255, 205, 0", "200, 16, 46"]
+    }
+]

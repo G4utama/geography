@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Iceland",
+        "full_name": "Iceland",
+        "full_name_native": "Ísland",
+        "code": "IS",
+        "continent": "Europe",
+        "capital": "Reykjavik",
+        "language": "Icelandic",
+        "area": 103000,
+        "population": 391000,
+        "currency": "Icelandic króna (ISK)",
+        "timezone": "UTC+00 (WET)",
+        "anthem": "Ó Guð vors lands",
+
+        "flagColors": ["Blue", "White", "Red"],
+        "flagDate": "17/06/1944",
+        "flagRGB": ["2, 82, 156", "255, 255, 255", "220, 30, 53"]
+    }
+]

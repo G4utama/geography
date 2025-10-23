@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bulgaria",
+        "full_name": "Republic of Bulgaria",
+        "full_name_native": "Република България",
+        "code": "BG",
+        "continent": "Europe",
+        "capital": "Sofia",
+        "language": "Bulgarian",
+        "area": 110000,
+        "population": 6437000,
+        "currency": "Lev (BGN)",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Mila Rodino",
+
+        "flagColors": ["White", "Green", "Red"],
+        "flagDate": "1879",
+        "flagRGB": ["255, 255, 255", "0, 150, 110", "214, 38, 18"]
+    }
+]

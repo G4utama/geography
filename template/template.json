@@ -1,0 +1,20 @@
+[
+    {
+        "name": "",
+        "full_name": "",
+        "full_name_native": "",
+        "code": "",
+        "continent": "",
+        "capital": "",
+        "language": "",
+        "area": 0,
+        "population": 0,
+        "currency": "",
+        "timezone": "",
+        "anthem": "",
+
+        "flagColors": ["", "", ""],
+        "flagDate": "",
+        "flagRGB": ["", "", ""]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "North_Macedonia",
+        "full_name": "Republic of North Macedonia",
+        "full_name_native": "Република Северна Македонија",
+        "code": "MK",
+        "continent": "Europe",
+        "capital": "Skopje",
+        "language": "Macedonian",
+        "area": 25000,
+        "population": 1836000,
+        "currency": "Macedonian denar (MKD)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Денес над Македонија",
+
+        "flagColors": ["Red", "Yellow"],
+        "flagDate": "05/10/1995",
+        "flagRGB": ["216, 33, 38", "248, 233, 46"]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Czechia",
+        "full_name": "Czech Republic",
+        "full_name_native": "Česká republika",
+        "code": "CZ",
+        "continent": "Europe",
+        "capital": "Prague",
+        "language": "Czech",
+        "area": 78000,
+        "population": 10900000,
+        "currency": "Czech koruna (CZK)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Kde domov můj",
+
+        "flagColors": ["Blue", "White", "Red"],
+        "flagDate": "30/03/1920",
+        "flagRGB": ["17, 69, 126", "255, 255, 255", "215, 20, 26"]
+    }
+]

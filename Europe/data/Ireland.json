@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ireland",
+        "full_name": "Ireland",
+        "full_name_native": "Éire",
+        "code": "IE",
+        "continent": "Europe",
+        "capital": "Dublin",
+        "language": "Irish, English",
+        "area": 84000,
+        "population": 7185000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+0 (WET)",
+        "anthem": "Amhrán na bhFiann",
+
+        "flagColors": ["Green", "White", "Orange"],
+        "flagDate": "1922",
+        "flagRGB": ["0, 154, 68", "255, 255, 255", "255, 130, 0"]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "San_Marino",
+        "full_name": "Republic of San Marino",
+        "full_name_native": "Repubblica di San Marino",
+        "code": "SM",
+        "continent": "Europe",
+        "capital": "San Marino",
+        "language": "Italian",
+        "area": 61,
+        "population": 34000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Inno Nazionale della Repubblica di San Marino",
+
+        "flagColors": ["White", "Blue"],
+        "flagDate": "1800s",
+        "flagRGB": ["255, 255, 255", "98, 181, 229"]
+    }
+]

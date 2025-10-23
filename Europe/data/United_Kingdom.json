@@ -1,0 +1,20 @@
+[
+    {
+        "name": "United_Kingdom",
+        "full_name": "United Kingdom of Great Britain and Northern Ireland",
+        "full_name_native": "United Kingdom of Great Britain and Northern Ireland",
+        "code": "GB",
+        "continent": "Europe",
+        "capital": "London",
+        "language": "English",
+        "area": 244000,
+        "population": 69281000,
+        "currency": "Pound Sterling (GBP)",
+        "timezone": "UTC+00 (WET)",
+        "anthem": "God Save the King/Queen",
+
+        "flagColors": ["White", "Red", "Blue"],
+        "flagDate": "1606",
+        "flagRGB": ["255, 255, 255", "200, 16, 46", "1, 33, 105"]
+    }
+]

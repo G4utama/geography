@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Slovakia",
+        "full_name": "Slovak Republic",
+        "full_name_native": "Slovenská republika",
+        "code": "SK",
+        "continent": "Europe",
+        "capital": "Bratislava",
+        "language": "Slovak",
+        "area": 49000,
+        "population": 5413000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (WET)",
+        "anthem": "Nad Tatrou sa blýska",
+
+        "flagColors": ["White", "Blue", "Red"],
+        "flagDate": "03/09/1992",
+        "flagRGB": ["255, 255, 255", "11, 78, 162", "238, 28, 37"]
+    }
+]

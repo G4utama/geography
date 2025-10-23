@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Italy",
+        "full_name": "Italian Republic",
+        "full_name_native": "Repubblica Italiana",
+        "code": "IT",
+        "continent": "Europe",
+        "capital": "Rome",
+        "language": "Italian",
+        "area": 301000,
+        "population": 58934000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Il Canto degli Italiani",
+
+        "flagColors": ["Green", "White", "Red"],
+        "flagDate": "18/06/1946",
+        "flagRGB": ["0, 140, 69", "244, 249, 255", "205, 33, 42"]
+    }
+]

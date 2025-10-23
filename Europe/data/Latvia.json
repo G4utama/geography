@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Latvia",
+        "full_name": "Republic of Latvia",
+        "full_name_native": "Latvijas Republika",
+        "code": "LV",
+        "continent": "Europe",
+        "capital": "Riga",
+        "language": "Latvian",
+        "area": 64000,
+        "population": 1842000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Dievs, svētī Latviju",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "15/06/1921",
+        "flagRGB": ["164, 52, 58", "255, 255, 255"]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Luxembourg",
+        "full_name": "Grand Duchy of Luxembourg",
+        "full_name_native": "Groussherzogtum Lëtzebuerg",
+        "code": "LU",
+        "continent": "Europe",
+        "capital": "Luxembourg City",
+        "language": "Luxembourgish, French, German",
+        "area": 2586,
+        "population": 681000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Ons Heemecht",
+
+        "flagColors": ["Red", "White", "Blue"],
+        "flagDate": "1848",
+        "flagRGB": ["234, 20, 29", "255, 255, 255", "81, 173, 218"]
+    }
+]

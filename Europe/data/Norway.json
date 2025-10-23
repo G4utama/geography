@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Norway",
+        "full_name": "Kingdom of Norway",
+        "full_name_native": "Kongeriket Norge",
+        "code": "NO",
+        "continent": "Europe",
+        "capital": "Oslo",
+        "language": "Norwegian",
+        "area": 385000,
+        "population": 5601000,
+        "currency": "Norwegian krone (NOK)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Ja, vi elsker dette landet",
+
+        "flagColors": ["Red", "White", "Blue"],
+        "flagDate": "13/07/1821",
+        "flagRGB": ["186, 12, 47", "255, 255, 255", "0, 32, 91"]
+    }
+]

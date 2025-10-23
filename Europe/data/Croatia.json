@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Croatia",
+        "full_name": "Republic of Croatia",
+        "full_name_native": "Republika Hrvatska",
+        "code": "HR",
+        "continent": "Europe",
+        "capital": "Zagreb",
+        "language": "Croatian",
+        "area": 56000,
+        "population": 3861000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Lijepa naša domovino",
+
+        "flagColors": ["Red", "White", "Blue"],
+        "flagDate": "1868",
+        "flagRGB": ["255, 0, 0", "255, 255, 255", "1, 33, 105"]
+    }
+]

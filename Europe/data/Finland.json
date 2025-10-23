@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Finland",
+        "full_name": "Republic of Finland",
+        "full_name_native": "Suomen tasavalta",
+        "code": "FI",
+        "continent": "Europe",
+        "capital": "Helsinki",
+        "language": "Finnish, Swedish",
+        "area": 338000,
+        "population": 5635000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Maamme",
+
+        "flagColors": ["White", "Blue"],
+        "flagDate": "28/05/1918",
+        "flagRGB": ["255, 255, 255", "0, 47, 108"]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Slovenia",
+        "full_name": "Republic of Slovenia",
+        "full_name_native": "Republika Slovenija",
+        "code": "SI",
+        "continent": "Europe",
+        "capital": "Ljubljana",
+        "language": "Slovene",
+        "area": 20000,
+        "population": 2130000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (WET)",
+        "anthem": "Zdravljica",
+
+        "flagColors": ["White", "Blue", "Red"],
+        "flagDate": "25/06/1991",
+        "flagRGB": ["255, 255, 255", "0, 61, 165", "255, 0, 0"]
+    }
+]

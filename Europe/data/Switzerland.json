@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Switzerland",
+        "full_name": "Swiss Confederation",
+        "full_name_native": "Schweizerische Eidgenossenschaft",
+        "code": "CH",
+        "continent": "Europe",
+        "capital": "Bern",
+        "language": "German, French, Italian, Romansh",
+        "area": 41000,
+        "population": 9060000,
+        "currency": "Swiss Franc (CHF)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Swiss Psalm",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "1841",
+        "flagRGB": ["218, 41, 28", "255, 255, 255"]
+    }
+]
