@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --background: rgba(0, 0, 0, 0.9);
+    --darkGray: rgba(255, 255, 255, 0.25);
+    --lightGray: rgba(255, 255, 255, 0.75);
+}
+
+html{
+    background-color: var(--background);
+    color: white;
+    font-family: "Courier New", monospace;
+    font-size: 14px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 128px;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    width: 100%;
+}
+
+hr{
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.25);
+    margin: 1em 0;
+    width: 95%;
+}
+
+h1, h2, p, img, li{
+    margin: 0.5em;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+/* p{
+    max-width: 720px;
+} */
+
+ul{
+    list-style-type: none;
+    max-width: 720px;
+}
+
+.country{
+    text-align: center;
+}
+
+.country img, .flag {
+    height: 42px;
+    margin: 1em;
+    border: solid 1px rgba(255, 255, 255, 0.25);
+    border-radius: 3px;
+}
+
+.continent{
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center; */
+    text-align: center;
+}
+
+.continent img{
+    max-width: 360px;
+    border-radius: 10px;
+}
+
+.continent div{
+    display: inline-block;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin: 1em;
+}
+
+th, td{
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 0.5em 1em;
+    max-width: 360px;
+}
+
+/* .data td{
+    min-width: 360px;
+} */
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:hover img{
+    /* filter: drop-shadow(5px 5px 5px var(--darkGray)); */
+    transform: scale(1.1);
+}
+
+.grayscale{
+    filter: grayscale(100%);
+}
