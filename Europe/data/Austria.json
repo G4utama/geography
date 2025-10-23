@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Austria",
+        "full_name": "Republic of Austria",
+        "full_name_native": "Republik Österreich",
+        "code": "AT",
+        "continent": "Europe",
+        "capital": "Vienna",
+        "language": "German",
+        "area": 83000,
+        "population": 9028000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Bundeshymne der Republik Österreich",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "1230",
+        "flagRGB": ["239, 51, 64", "255, 255, 255"]
+    }
+]

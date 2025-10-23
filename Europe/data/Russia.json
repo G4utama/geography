@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Russia",
+        "full_name": "Russian Federation",
+        "full_name_native": "Российская Федерация",
+        "code": "RU",
+        "continent": "Europe",
+        "capital": "Moscow",
+        "language": "Russian",
+        "area": 17098000,
+        "population": 146028000,
+        "currency": "Russian ruble (RUB)",
+        "timezone": "UTC+02 to UTC+12 (EET to KST)",
+        "anthem": "Государственный гимн Российской Федерации",
+
+        "flagColors": ["White", "Blue", "Red"],
+        "flagDate": "1705",
+        "flagRGB": ["255, 255, 255", "0, 54, 167", "214, 39, 24"]
+    }
+]

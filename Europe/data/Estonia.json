@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Estonia",
+        "full_name": "Republic of Estonia",
+        "full_name_native": "Eesti Vabariik",
+        "code": "EE",
+        "continent": "Europe",
+        "capital": "Tallinn",
+        "language": "Estonian",
+        "area": 45000,
+        "population": 1373000,
+        "currency": "Euro",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Mu isamaa, mu õnn ja rõõm",
+
+        "flagColors": ["Blue", "Black", "White"],
+        "flagDate": "21/11/1918",
+        "flagRGB": ["0, 114, 206", "0, 0, 0", "255, 255, 255"]
+    }
+]

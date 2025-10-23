@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Poland",
+        "full_name": "Republic of Poland",
+        "full_name_native": "Rzeczpospolita Polska",
+        "code": "PL",
+        "continent": "Europe",
+        "capital": "Warsaw",
+        "language": "Polish",
+        "area": 312000,
+        "population": 38036000,
+        "currency": "Zloty (PLN)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Mazurek Dąbrowskiego",
+
+        "flagColors": ["White", "Red"],
+        "flagDate": "01/08/1919",
+        "flagRGB": ["255, 255, 255", "220, 20, 60"]
+    }
+]

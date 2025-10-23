@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Spain",
+        "full_name": "Kingdom of Spain",
+        "full_name_native": "Reino de España",
+        "code": "ES",
+        "continent": "Europe",
+        "capital": "Madrid",
+        "language": "Spanish",
+        "area": 506000,
+        "population": 49315000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Marcha Real",
+
+        "flagColors": ["Red", "Yellow"],
+        "flagDate": "14/10/1492",
+        "flagRGB": ["170, 21, 27", "241, 191, 0"]
+    }
+]

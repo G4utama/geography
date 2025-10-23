@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Monaco",
+        "full_name": "Principality of Monaco",
+        "full_name_native": "Prinçipatu de Mùnegu",
+        "code": "MC",
+        "continent": "Europe",
+        "capital": "Monaco",
+        "language": "Monégasque, French, Italian",
+        "area": 2,
+        "population": 38000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Inu Munegascu",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "04/04/1881",
+        "flagRGB": ["206, 17, 38", "255, 255, 255"]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Portugal",
+        "full_name": "Portugese Republic",
+        "full_name_native": "República Portuguesa",
+        "code": "PT",
+        "continent": "Europe",
+        "capital": "Lisbon",
+        "language": "Portuguese",
+        "area": 92000,
+        "population": 10749000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+00 (WET)",
+        "anthem": "A Portuguesa",
+
+        "flagColors": ["Green", "Red", "Yellow"],
+        "flagDate": "30/06/1911",
+        "flagRGB": ["4, 106, 56", "218, 41, 28", "255, 233, 0"]
+    }
+]

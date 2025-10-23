@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Malta",
+        "full_name": "Republic of Malta",
+        "full_name_native": "Repubblika ta' Malta",
+        "code": "MT",
+        "continent": "Europe",
+        "capital": "Valletta",
+        "language": "Maltese, English",
+        "area": 316,
+        "population": 519000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "L-Innu Malti",
+
+        "flagColors": ["White", "Red"],
+        "flagDate": "21/09/1964",
+        "flagRGB": ["255, 255, 255", "207, 20, 43"]
+    }
+]

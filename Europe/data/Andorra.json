@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Andorra",
+        "full_name": "Principality of Andorra",
+        "full_name_native": "Principat d'Andorra",
+        "code": "AD",
+        "continent": "Europe",
+        "capital": "Andorra la Vella",
+        "language": "Catalan",
+        "area": 467,
+        "population": 87000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "El Gran Carlemany",
+
+        "flagColors": ["Blue", "Yellow", "Red"],
+        "flagDate": "1866",
+        "flagRGB": ["16, 6, 159", "254, 221, 0", "213, 0, 50"]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bosnia_and_Herzegovina",
+        "full_name": "Bosnia and Herzegovina",
+        "full_name_native": "Bosna i Hercegovina",
+        "code": "BA",
+        "continent": "Europe",
+        "capital": "Sarajevo",
+        "language": "Bosnian, Croatian, Serbian",
+        "area": 51000,
+        "population": 2904000,
+        "currency": "Convertible Mark (BAM)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Državna himna Bosne i Hercegovine",
+
+        "flagColors": ["Blue", "Yellow", "White"],
+        "flagDate": "04/02/1998",
+        "flagRGB": ["0, 47, 108", "255, 205, 0", "255, 255, 255"]
+    }
+]

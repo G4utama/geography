@@ -1,0 +1,20 @@
+[
+    {
+        "name": "France",
+        "full_name": "French Republic",
+        "full_name_native": "République française",
+        "code": "FR",
+        "continent": "Europe",
+        "capital": "Paris",
+        "language": "French",
+        "area": 632000,
+        "population": 68605000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "La Marseillaise",
+
+        "flagColors": ["Blue", "White", "Red"],
+        "flagDate": "15/02/1794",
+        "flagRGB": ["0, 0, 145", "255, 255, 255", "225, 0, 15"]
+    }
+]

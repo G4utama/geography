@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Kosovo",
+        "full_name": "Republic of Kosovo",
+        "full_name_native": "Republika e Kosovës",
+        "code": "XK",
+        "continent": "Europe",
+        "capital": "Pristina",
+        "language": "Albanian, Serbian",
+        "area": 10000,
+        "population": 1585000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Himni i Republikës së Kosovës",
+
+        "flagColors": ["Blue", "Yellow", "White"],
+        "flagDate": "17/02/2008",
+        "flagRGB": ["36, 74, 165", "208, 166, 80", "255, 255, 255"]
+    }
+]

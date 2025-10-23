@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hungary",
+        "full_name": "Hungary",
+        "full_name_native": "Magyarország",
+        "code": "HU",
+        "continent": "Europe",
+        "capital": "Budapest",
+        "language": "Hungarian",
+        "area": 93000,
+        "population": 9584000,
+        "currency": "Forint (HUF)",
+        "timezone": "UTC+01 (CET)",
+        "anthem": "Himnusz",
+
+        "flagColors": ["Red", "White", "Green"],
+        "flagDate": "23/05/1957",
+        "flagRGB": ["206, 41, 57", "255, 255, 255", "71, 112, 80"]
+    }
+]

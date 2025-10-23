@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ukraine",
+        "full_name": "Ukraine",
+        "full_name_native": "Україна",
+        "code": "UA",
+        "continent": "Europe",
+        "capital": "Kyiv",
+        "language": "Ukrainian",
+        "area": 603000,
+        "population": 32862000,
+        "currency": "Hryvnia",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Державний гімн України",
+
+        "flagColors": ["Blue", "Yellow"],
+        "flagDate": "22/03/1918",
+        "flagRGB": ["0, 87, 183", "255, 221, 0"]
+    }
+]

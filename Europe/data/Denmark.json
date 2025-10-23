@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Denmark",
+        "full_name": "Kingdom of Denmark",
+        "full_name_native": "Danmark",
+        "code": "DK",
+        "continent": "Europe",
+        "capital": "Copenhagen",
+        "language": "Danish",
+        "area": 43000,
+        "population": 6001000,
+        "currency": "Danish krone",
+        "timezone": "UTC+01 (WEST)",
+        "anthem": "Der er et yndigt land",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "15/06/1219",
+        "flagRGB": ["200, 16, 46", "255, 255, 255"]
+    }
+]

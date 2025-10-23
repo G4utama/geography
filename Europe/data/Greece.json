@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Greece",
+        "full_name": "Hellenic Republic",
+        "full_name_native": "Ελληνική Δημοκρατία",
+        "code": "GR",
+        "continent": "Europe",
+        "capital": "Athens",
+        "language": "Greek",
+        "area": 131000,
+        "population": 10400000,
+        "currency": "Euro",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Ύμνος εις την Ελευθερίαν",
+
+        "flagColors": ["Blue", "White"],
+        "flagDate": "22/12/1978",
+        "flagRGB": ["13, 94, 175", "255, 255, 255"]
+    }
+]

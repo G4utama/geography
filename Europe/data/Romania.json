@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Romania",
+        "full_name": "Romania",
+        "full_name_native": "România",
+        "code": "RO",
+        "continent": "Europe",
+        "capital": "Bucharest",
+        "language": "Romanian",
+        "area": 238000,
+        "population": 19036000,
+        "currency": "Leu (RON)",
+        "timezone": "UTC+02 (EET)",
+        "anthem": "Deșteaptă-te, române!",
+
+        "flagColors": ["Blue", "Yellow", "Red"],
+        "flagDate": "1834",
+        "flagRGB": ["0, 43, 127", "252, 209, 22", "206, 17, 38"]
+    }
+]
