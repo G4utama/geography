@@ -87,6 +87,16 @@ ul{
     display: inline-block;
 }
 
+.country div{
+    display: inline-block;
+    width: 128px;
+    margin-bottom: 1em;
+}
+
+.country p{
+    font-weight: bold;
+}
+
 table{
     border-collapse: collapse;
     text-align: center;
