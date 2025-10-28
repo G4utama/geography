@@ -1,10 +1,8 @@
 function loadData(item) {
     if (window.location.pathname.endsWith(item.pageName)) {
-        // Load the JSON file
         fetch(`data/${item.filePath}`)
             .then(response => response.json())
             .then(data => {
-                // Create the HTML content
 
                 const nameFormatted = data[0].name.replace('_', ' ').replace('_', ' ');
                 const continentFormatted = data[0].continent.replace('_', ' ');
@@ -58,7 +56,6 @@ function loadData(item) {
                     </table>
                 `;
 
-                // Write the HTML content to the document
                 const contentElement = document.getElementById('container');
                 contentElement.innerHTML = content;
             })

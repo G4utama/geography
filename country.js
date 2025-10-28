@@ -45,6 +45,4 @@ const countryData = [
     { filePath: 'Ukraine.json', pageName: 'Ukraine.html' },
     { filePath: 'United_Kingdom.json', pageName: 'United_Kingdom.html' },
     { filePath: 'Vatican_City.json', pageName: 'Vatican_City.html' },
-
-    { filePath: 'Brazil.json', pageName: 'Brazil.html' },
 ];
