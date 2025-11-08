@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Paraguay",
+        "full_name": "Republic of Paraguay",
+        "full_name_native": "República de Paraguay",
+        "code": "PY",
+        "continent": "South_America",
+        "capital": "Asunción",
+        "language": "Spanish",
+        "area": 406000,
+        "population": 6413000,
+        "currency": "Guarani (PYG)",
+        "timezone": "UTC-04",
+        "anthem": "Himno Nacional Paraguayo",
+
+        "flagColors": ["Red", "White", "Blue"],
+        "flagDate": "1842",
+        "flagRGB": ["213, 43, 30", "255, 255, 255", "0, 56, 168"]
+    }
+]

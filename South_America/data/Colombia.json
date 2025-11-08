@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Colombia",
+        "full_name": "Republic of Colombia",
+        "full_name_native": "República de Colombia",
+        "code": "CO",
+        "continent": "South_America",
+        "capital": "Bogotá",
+        "language": "Spanish",
+        "area": 1141000,
+        "population": 52695000,
+        "currency": "Peso (COP)",
+        "timezone": "UTC-05",
+        "anthem": "Himno Nacional de la República de Colombia",
+
+        "flagColors": ["Yellow", "Blue", "Red"],
+        "flagDate": "26/11/1861",
+        "flagRGB": ["255, 205, 0", "0, 48, 135", "200, 16, 46"]
+    }
+]

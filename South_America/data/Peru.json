@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Peru",
+        "full_name": "Republic of Peru",
+        "full_name_native": "República del Peru",
+        "code": "PE",
+        "continent": "South_America",
+        "capital": "Lima",
+        "language": "Spanish",
+        "area": 1285000,
+        "population": 34352000,
+        "currency": "Sol (PEN)",
+        "timezone": "UTC-05",
+        "anthem": "Himno Nacional del Perú",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "25/02/1825",
+        "flagRGB": ["200, 16, 46", "255, 255, 255"]
+    }
+]
