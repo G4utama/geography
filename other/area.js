@@ -17,7 +17,7 @@ fetch('country.json')
             <tbody>
 				<tr>
 					<td>0</td>
-					<td><a href="../index.html"><img class="flag" src="../assets/World.png"></a></td>
+					<td><a href="../index.html"><img class="flag" src="../assets/other/World.png"></a></td>
 					<td>World</td>
 					<td>${totalArea.toLocaleString()}</td>
 					<td>100%</td>
@@ -25,7 +25,7 @@ fetch('country.json')
             ${sortTableData(data).map((country, index) => `
                 <tr>
                     <td>${index + 1}</td>
-                    <td><a href="../${country.continent}/${country.name}.html"><img class="flag" src="../assets/country/flag/${country.continent.replace('_', ' ').toLowerCase()}/${country.name}.png"></a></td>
+                    <td><a href="../${country.continent}/${country.name}.html"><img class="flag" src="../assets/country/flag/${country.continent}/${country.name}.png"></a></td>
                     <td>${country.name.replace('_', ' ').replace('_', ' ')}</td>
                     <td>${(country.area).toLocaleString()}</td>
                     <td>${((country.area / totalArea) * 100).toFixed(2)}%</td>
