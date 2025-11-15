@@ -17,7 +17,7 @@ function loadData(item) {
                         <tbody>
                             <tr><th>Full Name</th><td>${data[0].full_name}</td></tr>
                             <tr><th>Native Name</th><td>${data[0].full_name_native}</td></tr>
-                            <tr><th>Shape</th><td><img src="../assets/country/shape/${continentFormattedLower}/${data[0].name}.png"></td></tr>
+                            <tr><th>Shape</th><td><img src="../assets/country/shape/${data[0].continent}/${data[0].name}.png"></td></tr>
                             <tr><th>Continent</th><td><a href="../${data[0].continent}.html">${continentFormatted}</a></td></tr>
                             <tr><th>Capital</th><td>${data[0].capital}</td></tr>
                             <tr><th>Language</th><td>${data[0].language.split(',').join('<br>')}</td></tr>
@@ -31,7 +31,7 @@ function loadData(item) {
                     <hr>
 
                     <h2>Flag</h2>
-                    <img class="flag" src="../assets/country/flag/${continentFormattedLower}/${data[0].name}.png">
+                    <img class="flag" src="../assets/country/flag/${data[0].continent}/${data[0].name}.png">
                     <p>Adopted: ${data[0].flagDate}</p>
                     <table>
                         <thead>
