@@ -45,4 +45,17 @@ const countryData = [
     { filePath: 'Ukraine.json', pageName: 'Ukraine.html' },
     { filePath: 'United_Kingdom.json', pageName: 'United_Kingdom.html' },
     { filePath: 'Vatican_City.json', pageName: 'Vatican_City.html' },
+
+    { filePath: 'Argentina.json', pageName: 'Argentina.html' },
+    { filePath: 'Bolivia.json', pageName: 'Bolivia.html' },
+    { filePath: 'Brazil.json', pageName: 'Brazil.html' },
+    { filePath: 'Chile.json', pageName: 'Chile.html' },
+    { filePath: 'Colombia.json', pageName: 'Colombia.html' },
+    { filePath: 'Ecuador.json', pageName: 'Ecuador.html' },
+    { filePath: 'Guyana.json', pageName: 'Guyana.html' },
+    { filePath: 'Paraguay.json', pageName: 'Paraguay.html' },
+    { filePath: 'Peru.json', pageName: 'Peru.html' },
+    { filePath: 'Suriname.json', pageName: 'Suriname.html' },
+    { filePath: 'Uruguay.json', pageName: 'Uruguay.html' },
+    { filePath: 'Venezuela.json', pageName: 'Venezuela.html' },
 ];

@@ -25,7 +25,7 @@ fetch('europe.json')
 			${sortTableData(data).map((country, index) => `
 				<tr>
 					<td>${index + 1}</td>
-					<td><a href="../../${country.continent}/${country.name}.html"><img class="flag" src="../../assets/country/flag/${country.continent.replace('_', ' ').toLowerCase()}/${country.name}.png"></a></td>
+					<td><a href="../../${country.continent}/${country.name}.html"><img class="flag" src="../../assets/country/flag/${country.continent}/${country.name}.png"></a></td>
 					<td>${country.name.replace('_', ' ').replace('_', ' ')}</td>
 					<td>${(country.population).toLocaleString()}</td>
 					<td>${((country.population / totalPopulation) * 100).toFixed(2)}%</td>

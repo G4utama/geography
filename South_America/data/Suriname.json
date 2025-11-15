@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Suriname",
+        "full_name": "Republic of Suriname",
+        "full_name_native": "República de Suriname",
+        "code": "SR",
+        "continent": "South_America",
+        "capital": "Paramaribo",
+        "language": "Dutch",
+        "area": 165000,
+        "population": 632000,
+        "currency": "Dollar (SRD)",
+        "timezone": "UTC-03",
+        "anthem": "God zij met ons Suriname",
+
+        "flagColors": ["Green", "White", "Red"],
+        "flagDate": "25/11/1975",
+        "flagRGB": ["0, 122, 51", "255, 255, 255", "200, 16, 46"]
+    }
+]
