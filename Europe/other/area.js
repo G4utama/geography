@@ -1,7 +1,8 @@
-fetch('europe.json')
+fetch('../../other/country.json')
 .then(response => response.json())
 .then(data => {
-    const totalArea = data.reduce((acc, country) => acc + country.area, 0);
+    const europeData = data.filter(country => country.continent === 'Europe');
+    const totalArea = europeData.reduce((acc, country) => acc + country.area, 0);
 
     const table = `
         <table>
@@ -22,7 +23,10 @@ fetch('europe.json')
 					<td>${totalArea.toLocaleString()}</td>
 					<td>100%</td>
 				</tr>
-            ${sortTableData(data).map((country, index) => `
+                <tr>
+                    <th colspan="5">Countries</th>
+                </tr>
+            ${sortTableData(europeData).map((country, index) => `
                 <tr>
                     <td>${index + 1}</td>
                     <td><a href="../../${country.continent}/${country.name}.html"><img class="flag" src="../../assets/country/flag/${country.continent}/${country.name}.png"></a></td>

@@ -2,6 +2,12 @@ html{
     font-size: 1.5em;
 }
 
+.country div{
+    width: 128px;
+    height: 128px;
+    margin-bottom: 2em;
+}
+
 .country p{
     overflow: hidden;
     text-overflow: ellipsis;

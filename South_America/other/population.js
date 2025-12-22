@@ -1,7 +1,8 @@
-fetch('south_america.json')
+fetch('../../other/country.json')
 .then(response => response.json())
 .then(data => {
-	const totalPopulation = data.reduce((acc, country) => acc + country.population, 0);
+	const southAmericaData = data.filter(country => country.continent === 'South_America');
+	const totalPopulation = southAmericaData.reduce((acc, country) => acc + country.population, 0);
 
 	const table = `
 		<table>
@@ -22,7 +23,10 @@ fetch('south_america.json')
 					<td>${totalPopulation.toLocaleString()}</td>
 					<td>100%</td>
 				</tr>
-			${sortTableData(data).map((country, index) => `
+				<tr>
+                    <th colspan="5">Countries</th>
+                </tr>
+			${sortTableData(southAmericaData).map((country, index) => `
 				<tr>
 					<td>${index + 1}</td>
 					<td><a href="../../${country.continent}/${country.name}.html"><img class="flag" src="../../assets/country/flag/${country.continent}/${country.name}.png"></a></td>

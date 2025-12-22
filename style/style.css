@@ -84,10 +84,15 @@ ul{
     display: inline-block;
 }
 
+.other div{
+    min-width: 128px;
+    min-height: 128px;
+}
+
 .country div{
     display: inline-block;
     width: 128px;
-    margin-bottom: 1em;
+    height: 128px;
 }
 
 .country p{
@@ -118,4 +123,5 @@ a:hover img{
 
 .grayscale{
     filter: grayscale(100%);
+    opacity: 0.5;
 }
