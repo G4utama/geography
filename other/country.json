@@ -11,7 +11,6 @@
         "population": 2402000,
         "currency": "Lek (ALL)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Himni i Flamurit",
 
         "flagColors": ["Red", "Black"],
         "flagDate": "1443",
@@ -29,7 +28,6 @@
         "population": 87000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "El Gran Carlemany",
 
         "flagColors": ["Blue", "Yellow", "Red"],
         "flagDate": "1866",
@@ -47,7 +45,6 @@
         "population": 9028000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Bundeshymne der Republik Österreich",
 
         "flagColors": ["Red", "White"],
         "flagDate": "1230",
@@ -65,7 +62,6 @@
         "population": 9109000,
         "currency": "Belarusian ruble (BYN)",
         "timezone": "UTC+03 (EEST)",
-        "anthem": "Дзяржаўны гімн Рэспублікі Беларусь",
 
         "flagColors": ["Red", "Green", "White"],
         "flagDate": "25/12/1951",
@@ -83,7 +79,6 @@
         "population": 11825000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (WET)",
-        "anthem": "La Brabançonne",
 
         "flagColors": ["Black", "Yellow", "Red"],
         "flagDate": "23/01/1831",
@@ -101,7 +96,6 @@
         "population": 2904000,
         "currency": "Convertible Mark (BAM)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Državna himna Bosne i Hercegovine",
 
         "flagColors": ["Blue", "Yellow", "White"],
         "flagDate": "04/02/1998",
@@ -119,7 +113,6 @@
         "population": 6437000,
         "currency": "Lev (BGN)",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Mila Rodino",
 
         "flagColors": ["White", "Green", "Red"],
         "flagDate": "1879",
@@ -137,7 +130,6 @@
         "population": 3861000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Lijepa naša domovino",
 
         "flagColors": ["Red", "White", "Blue"],
         "flagDate": "1868",
@@ -155,7 +147,6 @@
         "population": 10900000,
         "currency": "Czech koruna (CZK)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Kde domov můj",
 
         "flagColors": ["Blue", "White", "Red"],
         "flagDate": "30/03/1920",
@@ -173,7 +164,6 @@
         "population": 6001000,
         "currency": "Danish krone",
         "timezone": "UTC+01 (WEST)",
-        "anthem": "Der er et yndigt land",
 
         "flagColors": ["Red", "White"],
         "flagDate": "15/06/1219",
@@ -191,7 +181,6 @@
         "population": 1373000,
         "currency": "Euro",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Mu isamaa, mu õnn ja rõõm",
 
         "flagColors": ["Blue", "Black", "White"],
         "flagDate": "21/11/1918",
@@ -209,7 +198,6 @@
         "population": 5635000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Maamme",
 
         "flagColors": ["White", "Blue"],
         "flagDate": "28/05/1918",
@@ -227,7 +215,6 @@
         "population": 68605000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "La Marseillaise",
 
         "flagColors": ["Blue", "White", "Red"],
         "flagDate": "15/02/1794",
@@ -245,7 +232,6 @@
         "population": 83491000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Das Lied der Deutschen",
 
         "flagColors": ["Black", "Red", "Yellow"],
         "flagDate": "03/07/1919",
@@ -263,7 +249,6 @@
         "population": 10400000,
         "currency": "Euro",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Ύμνος εις την Ελευθερίαν",
 
         "flagColors": ["Blue", "White"],
         "flagDate": "22/12/1978",
@@ -281,7 +266,6 @@
         "population": 9584000,
         "currency": "Forint (HUF)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Himnusz",
 
         "flagColors": ["Red", "White", "Green"],
         "flagDate": "23/05/1957",
@@ -299,7 +283,6 @@
         "population": 391000,
         "currency": "Icelandic króna (ISK)",
         "timezone": "UTC+00 (WET)",
-        "anthem": "Ó Guð vors lands",
 
         "flagColors": ["Blue", "White", "Red"],
         "flagDate": "17/06/1944",
@@ -317,7 +300,6 @@
         "population": 7185000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+0 (WET)",
-        "anthem": "Amhrán na bhFiann",
 
         "flagColors": ["Green", "White", "Orange"],
         "flagDate": "1922",
@@ -335,7 +317,6 @@
         "population": 58934000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Il Canto degli Italiani",
 
         "flagColors": ["Green", "White", "Red"],
         "flagDate": "18/06/1946",
@@ -353,7 +334,6 @@
         "population": 1585000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Himni i Republikës së Kosovës",
 
         "flagColors": ["Blue", "Yellow", "White"],
         "flagDate": "17/02/2008",
@@ -371,7 +351,6 @@
         "population": 1842000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Dievs, svētī Latviju",
 
         "flagColors": ["Red", "White"],
         "flagDate": "15/06/1921",
@@ -389,7 +368,6 @@
         "population": 41000,
         "currency": "Swiss Franc (CHF)",
         "timezone": "UTC+01 (WET)",
-        "anthem": "Oben am jungen Rhein",
 
         "flagColors": ["Blue", "Red", "Yellow"],
         "flagDate": "30/06/1982",
@@ -407,7 +385,6 @@
         "population": 2897000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Tautiška giesmė",
 
         "flagColors": ["Yellow", "Green", "Red"],
         "flagDate": "25/04/1918 ",
@@ -425,7 +402,6 @@
         "population": 681000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Ons Heemecht",
 
         "flagColors": ["Red", "White", "Blue"],
         "flagDate": "1848",
@@ -443,7 +419,6 @@
         "population": 519000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "L-Innu Malti",
 
         "flagColors": ["White", "Red"],
         "flagDate": "21/09/1964",
@@ -461,7 +436,6 @@
         "population": 2381000,
         "currency": "Moldovan leu (MDL)",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Limba Noastră",
 
         "flagColors": ["Blue", "Yellow", "Red"],
         "flagDate": "6/11/1990 ",
@@ -479,7 +453,6 @@
         "population": 38000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Inu Munegascu",
 
         "flagColors": ["Red", "White"],
         "flagDate": "04/04/1881",
@@ -497,7 +470,6 @@
         "population": 623000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Oj, svijetla majska zoro",
 
         "flagColors": ["Red", "Yellow"],
         "flagDate": "13/07/2004",
@@ -515,7 +487,6 @@
         "population": 18449000,
         "currency": "Euro",
         "timezone": "UTC+01 (WET)",
-        "anthem": "Wilhelmus",
 
         "flagColors": ["Red", "White", "Blue"],
         "flagDate": "1575",
@@ -533,7 +504,6 @@
         "population": 1836000,
         "currency": "Macedonian denar (MKD)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Денес над Македонија",
 
         "flagColors": ["Red", "Yellow"],
         "flagDate": "05/10/1995",
@@ -551,7 +521,6 @@
         "population": 5601000,
         "currency": "Norwegian krone (NOK)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Ja, vi elsker dette landet",
 
         "flagColors": ["Red", "White", "Blue"],
         "flagDate": "13/07/1821",
@@ -569,7 +538,6 @@
         "population": 38036000,
         "currency": "Zloty (PLN)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Mazurek Dąbrowskiego",
 
         "flagColors": ["White", "Red"],
         "flagDate": "01/08/1919",
@@ -587,7 +555,6 @@
         "population": 10749000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+00 (WET)",
-        "anthem": "A Portuguesa",
 
         "flagColors": ["Green", "Red", "Yellow"],
         "flagDate": "30/06/1911",
@@ -605,7 +572,6 @@
         "population": 19036000,
         "currency": "Leu (RON)",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Deșteaptă-te, române!",
 
         "flagColors": ["Blue", "Yellow", "Red"],
         "flagDate": "1834",
@@ -619,11 +585,10 @@
         "continent": "Europe",
         "capital": "Moscow",
         "language": "Russian",
-        "area": 17098000,
-        "population": 146028000,
-        "currency": "Russian ruble (RUB)",
+        "area": 3969000,
+        "population": 109455000,
+        "currency": "Ruble (RUB)",
         "timezone": "UTC+02 to UTC+12 (EET to KST)",
-        "anthem": "Государственный гимн Российской Федерации",
 
         "flagColors": ["White", "Blue", "Red"],
         "flagDate": "1705",
@@ -641,7 +606,6 @@
         "population": 34000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Inno Nazionale della Repubblica di San Marino",
 
         "flagColors": ["White", "Blue"],
         "flagDate": "1800s",
@@ -659,7 +623,6 @@
         "population": 6567000,
         "currency": "Serbian dinar (RSD)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Боже правде",
 
         "flagColors": ["Red", "Blue", "White"],
         "flagDate": "2004",
@@ -677,7 +640,6 @@
         "population": 5413000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (WET)",
-        "anthem": "Nad Tatrou sa blýska",
 
         "flagColors": ["White", "Blue", "Red"],
         "flagDate": "03/09/1992",
@@ -695,7 +657,6 @@
         "population": 2130000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (WET)",
-        "anthem": "Zdravljica",
 
         "flagColors": ["White", "Blue", "Red"],
         "flagDate": "25/06/1991",
@@ -713,7 +674,6 @@
         "population": 49315000,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Marcha Real",
 
         "flagColors": ["Red", "Yellow"],
         "flagDate": "14/10/1492",
@@ -731,7 +691,6 @@
         "population": 10588000,
         "currency": "Swedish Krona (SEK)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Du gamla, Du fria",
 
         "flagColors": ["Blue", "Yellow"],
         "flagDate": "22/06/1906",
@@ -749,7 +708,6 @@
         "population": 9060000,
         "currency": "Swiss Franc (CHF)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Swiss Psalm",
 
         "flagColors": ["Red", "White"],
         "flagDate": "1841",
@@ -767,7 +725,6 @@
         "population": 32862000,
         "currency": "Hryvnia",
         "timezone": "UTC+02 (EET)",
-        "anthem": "Державний гімн України",
 
         "flagColors": ["Blue", "Yellow"],
         "flagDate": "22/03/1918",
@@ -785,7 +742,6 @@
         "population": 69281000,
         "currency": "Pound Sterling (GBP)",
         "timezone": "UTC+00 (WET)",
-        "anthem": "God Save the King/Queen",
 
         "flagColors": ["White", "Red", "Blue"],
         "flagDate": "1606",
@@ -803,12 +759,12 @@
         "population": 882,
         "currency": "Euro (EUR)",
         "timezone": "UTC+01 (CET)",
-        "anthem": "Inno Pontificio",
 
         "flagColors": ["Yellow", "White"],
         "flagDate": "07/06/1929",
         "flagRGB": ["255, 242, 0", "255, 255, 255"]
     },
+
     {
         "name": "Argentina",
         "full_name": "Argentine Republic",
@@ -821,7 +777,6 @@
         "population": 46735000,
         "currency": "Peso (ARS)",
         "timezone": "UTC-03",
-        "anthem": "Himno Nacional Argentino",
 
         "flagColors": ["Blue", "White"],
         "flagDate": "27/02/1812",
@@ -839,7 +794,6 @@
         "population": 11365000,
         "currency": "Boliviano (BOB)",
         "timezone": "UTC-04",
-        "anthem": "Himno Nacional Boliviano",
 
         "flagColors": ["Red", "Yellow", "Green"],
         "flagDate": "31/10/1851",
@@ -857,7 +811,6 @@
         "population": 213421000,
         "currency": "Real (BRL)",
         "timezone": "UTC-03",
-        "anthem": "Hino Nacional Brasileiro",
 
         "flagColors": ["Green", "Yellow", "Blue"],
         "flagDate": "19/11/1889",
@@ -875,7 +828,6 @@
         "population": 19629000,
         "currency": "Peso (CLP)",
         "timezone": "UTC-03",
-        "anthem": "Himno Nacional de Chile",
 
         "flagColors": ["Red", "White", "Blue"],
         "flagDate": "18/10/1817",
@@ -893,7 +845,6 @@
         "population": 52695000,
         "currency": "Peso (COP)",
         "timezone": "UTC-05",
-        "anthem": "Himno Nacional de la República de Colombia",
 
         "flagColors": ["Yellow", "Blue", "Red"],
         "flagDate": "26/11/1861",
@@ -911,7 +862,6 @@
         "population": 17483000,
         "currency": "Dollar (USD)",
         "timezone": "UTC-05",
-        "anthem": "Salve, Oh Patria",
 
         "flagColors": ["Yellow", "Blue", "Red"],
         "flagDate": "26/09/1860",
@@ -929,7 +879,6 @@
         "population": 835000,
         "currency": "Dollar (GYD)",
         "timezone": "UTC-04",
-        "anthem": "Dear Land of Guyana",
 
         "flagColors": ["Red", "Yellow", "Green"],
         "flagDate": "26/05/1966",
@@ -947,7 +896,6 @@
         "population": 6413000,
         "currency": "Guarani (PYG)",
         "timezone": "UTC-04",
-        "anthem": "Himno Nacional Paraguayo",
 
         "flagColors": ["Red", "White", "Blue"],
         "flagDate": "1842",
@@ -965,7 +913,6 @@
         "population": 34352000,
         "currency": "Sol (PEN)",
         "timezone": "UTC-05",
-        "anthem": "Himno Nacional del Perú",
 
         "flagColors": ["Red", "White"],
         "flagDate": "25/02/1825",
@@ -983,7 +930,6 @@
         "population": 632000,
         "currency": "Dollar (SRD)",
         "timezone": "UTC-03",
-        "anthem": "God zij met ons Suriname",
 
         "flagColors": ["Green", "White", "Red"],
         "flagDate": "25/11/1975",
@@ -1001,7 +947,6 @@
         "population": 3499000,
         "currency": "Peso (UYU)",
         "timezone": "UTC-03",
-        "anthem": "Himno Nacional del Uruguay",
 
         "flagColors": ["White", "Blue"],
         "flagDate": "18/12/1828",
@@ -1019,10 +964,826 @@
         "population": 30518000,
         "currency": "Bolivar (VEF)",
         "timezone": "UTC-04",
-        "anthem": "Gloria al Bravo Pueblo",
 
         "flagColors": ["Yellow", "Blue", "Red"],
         "flagDate": "12/03/2006",
         "flagRGB": ["252, 227, 0", "0, 61, 165", "239, 51, 64"]
+    },
+    
+    {
+        "name": "Afghanistan",
+        "full_name": "Islamic Republic of Afghanistan",
+        "full_name_native": "جمهوری اسلامی افغانستان",
+        "code": "AF",
+        "continent": "Asia",
+        "capital": "Kabul",
+        "language": "Pashto, Dari",
+        "area": 652000,
+        "population": 41454000,
+        "currency": "Afghani (AFN)",
+        "timezone": "UTC+04:30",
+
+        "flagColors": ["White", "Black"],
+        "flagDate": "27/10/1997",
+        "flagRGB": ["255, 255, 255", "0, 0, 0"]
+    },
+    {
+        "name": "Armenia",
+        "full_name": "Republic of Armenia",
+        "full_name_native": "Հայաստանի Հանրապետություն",
+        "code": "AM",
+        "continent": "Asia",
+        "capital": "Yerevan",
+        "language": "Armenian",
+        "area": 29000,
+        "population": 3081000,
+        "currency": "Dram (AMD)",
+        "timezone": "UTC+04",
+
+        "flagColors": ["Red", "Blue", "Yellow"],
+        "flagDate": "01/08/1918",
+        "flagRGB": ["217, 0, 18", "0, 20, 137", "255, 158, 27"]
+    },
+    {
+        "name": "Azerbaijan",
+        "full_name": "Republic of Azerbaijan",
+        "full_name_native": "Azərbaycan Respublikası",
+        "code": "AZ",
+        "continent": "Asia",
+        "capital": "Baku",
+        "language": "Azerbaijani",
+        "area": 86000,
+        "population": 10353000,
+        "currency": "Manat (AZN)",
+        "timezone": "UTC+04",
+
+        "flagColors": ["Blue", "Red", "Green"],
+        "flagDate": "09/11/1918",
+        "flagRGB": ["0, 146, 188", "228, 0, 43", "0, 175, 102"]
+    },
+    {
+        "name": "Bahrain",
+        "full_name": "Kingdom of Bahrain",
+        "full_name_native": "المملكة البحرين",
+        "code": "BH",
+        "continent": "Asia",
+        "capital": "Manama",
+        "language": "Arabic",
+        "area": 786,
+        "population": 1463000,
+        "currency": "Dinar (BHD)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "14/02/2002",
+        "flagRGB": ["206, 17, 38", "255, 255, 255"]
+    },
+    {
+        "name": "Bangladesh",
+        "full_name": "People's Republic of Bangladesh",
+        "full_name_native": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+        "code": "BD",
+        "continent": "Asia",
+        "capital": "Dhaka",
+        "language": "Bengali",
+        "area": 148000,
+        "population": 171466000,
+        "currency": "Taka (BDT)",
+        "timezone": "UTC+06",
+
+        "flagColors": ["Green", "Red"],
+        "flagDate": "17/01/1972",
+        "flagRGB": ["0, 106, 78", "244, 42, 65"]
+    },
+    {
+        "name": "Bhutan",
+        "full_name": "Kingdom of Bhutan",
+        "full_name_native": "འབྲུག་རྒྱལ་ཁབ",
+        "code": "BT",
+        "continent": "Asia",
+        "capital": "Thimphu",
+        "language": "Dzongkha",
+        "area": 38000,
+        "population": 777000,
+        "currency": "Ngultrum (BTN)",
+        "timezone": "UTC+06",
+
+        "flagColors": ["Yellow", "Orange", "White"],
+        "flagDate": "1969",
+        "flagRGB": ["255, 205, 0", "255, 103, 32", "255, 255, 255"]
+    },
+    {
+        "name": "Brunei",
+        "full_name": "Brunei Darussalam",
+        "full_name_native": "Negara Brunei Darussalam",
+        "code": "BN",
+        "continent": "Asia",
+        "capital": "Bandar Seri Begawan",
+        "language": "Malay",
+        "area": 5765,
+        "population": 466000,
+        "currency": "Dollar (BND)",
+        "timezone": "UTC+08",
+
+        "flagColors": ["Yellow", "White", "Black"],
+        "flagDate": "29/09/1959",
+        "flagRGB": ["252, 227, 0", "255, 255, 255", "0, 0, 0"]
+    },
+    {
+        "name": "Cambodia",
+        "full_name": "Kingdom of Cambodia",
+        "full_name_native": "ព្រះរាជាណាចក្រកម្ពុជា",
+        "code": "KH",
+        "continent": "Asia",
+        "capital": "Phnom Penh",
+        "language": "Khmer",
+        "area": 181000,
+        "population": 17638000,
+        "currency": "Riel (KHR)",
+        "timezone": "UTC+07",
+
+        "flagColors": ["Blue", "Red", "White"],
+        "flagDate": "1948",
+        "flagRGB": ["3, 46, 161", "224, 0, 37", "255, 255, 255"]
+    },
+    {
+        "name": "China",
+        "full_name": "People's Republic of China",
+        "full_name_native": "中华人民共和国",
+        "code": "CN",
+        "continent": "Asia",
+        "capital": "Beijing",
+        "language": "Mandarin",
+        "area": 9596000,
+        "population": 1408280000,
+        "currency": "Renminbi (CNY)",
+        "timezone": "UTC+08",
+
+        "flagColors": ["Red", "Yellow"],
+        "flagDate": "27/09/1949",
+        "flagRGB": ["238, 28, 37", "255, 255, 0"]
+    },
+    {
+        "name": "Cyprus",
+        "full_name": "Republic of Cyprus",
+        "full_name_native": "Κυπριακή Δημοκρατία",
+        "code": "CY",
+        "continent": "Asia",
+        "capital": "Nicosia",
+        "language": "Greek, Turkish",
+        "area": 9251,
+        "population": 923000,
+        "currency": "Euro (EUR)",
+        "timezone": "UTC+02",
+
+        "flagColors": ["White", "Yellow", "Green"],
+        "flagDate": "16/08/1960",
+        "flagRGB": ["255, 255, 255", "213, 120, 0", "78, 91, 49"]
+    },
+    {
+        "name": "Georgia",
+        "full_name": "Georgia",
+        "full_name_native": "საქართველო",
+        "code": "GE",
+        "continent": "Asia",
+        "capital": "Tbilisi",
+        "language": "Georgian",
+        "area": 69000,
+        "population": 3657000,
+        "currency": "Lari (GEL)",
+        "timezone": "UTC+04",
+
+        "flagColors": ["White", "Red"],
+        "flagDate": "14/01/2004",
+        "flagRGB": ["255, 255, 255", "218, 41, 28"]
+    },
+    {
+        "name": "India",
+        "full_name": "Republic of India",
+        "full_name_native": "Bhārat Gaṇarājya",
+        "code": "IN",
+        "continent": "Asia",
+        "capital": "New Delhi",
+        "language": "Hindi, English",
+        "area": 3287000,
+        "population": 1428627000,
+        "currency": "Rupee (INR)",
+        "timezone": "UTC+05:30",
+
+        "flagColors": ["Orange", "White", "Green"],
+        "flagDate": "22/07/1947",
+        "flagRGB": ["255, 103, 31", "255, 255, 255", "4, 106, 56"]
+    },
+    {
+        "name": "Indonesia",
+        "full_name": "Republic of Indonesia",
+        "full_name_native": "Republik Indonesia",
+        "code": "ID",
+        "continent": "Asia",
+        "capital": "Jakarta",
+        "language": "Indonesian",
+        "area": 1904000,
+        "population": 284438000,
+        "currency": "Rupiah (IDR)",
+        "timezone": "UTC+07 to UTC+09",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "11/11/1293",
+        "flagRGB": ["255, 0, 0", "255, 255, 255"]
+    },
+    {
+        "name": "Iran",
+        "full_name": "Islamic Republic of Iran",
+        "full_name_native": "جمهوری اسلامی ایران",
+        "code": "IR",
+        "continent": "Asia",
+        "capital": "Tehran",
+        "language": "Persian",
+        "area": 1648000,
+        "population": 92417000,
+        "currency": "Rial (IRR)",
+        "timezone": "UTC+03:30",
+
+        "flagColors": ["Green", "White", "Red"],
+        "flagDate": "07/10/1907",
+        "flagRGB": ["35, 159, 64", "255, 255, 255", "218, 0, 0"]
+    },
+    {
+        "name": "Iraq",
+        "full_name": "Republic of Iraq",
+        "full_name_native": "جمهورية العراق",
+        "code": "IQ",
+        "continent": "Asia",
+        "capital": "Baghdad",
+        "language": "Arabic, Kurdish",
+        "area": 438000,
+        "population": 46118000,
+        "currency": "Dinar (IQD)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Red", "White", "Black"],
+        "flagDate": "22/01/2008",
+        "flagRGB": ["206, 17, 38", "255, 255, 255", "0, 0, 0"]
+    },
+    {
+        "name": "Israel",
+        "full_name": "State of Israel",
+        "full_name_native": "מדינת ישראל",
+        "code": "IL",
+        "continent": "Asia",
+        "capital": "Jerusalem",
+        "language": "Hebrew, Arabic",
+        "area": 22000,
+        "population": 10147000,
+        "currency": "Shekel (ILS)",
+        "timezone": "UTC+02",
+
+        "flagColors": ["White", "Blue"],
+        "flagDate": "1897",
+        "flagRGB": ["255, 255, 255", "0, 94, 184"]
+    },
+    {
+        "name": "Japan",
+        "full_name": "Japan",
+        "full_name_native": "日本国",
+        "code": "JP",
+        "continent": "Asia",
+        "capital": "Tokyo",
+        "language": "Japanese",
+        "area": 377000,
+        "population": 123360000,
+        "currency": "Yen (JPY)",
+        "timezone": "UTC+09",
+
+        "flagColors": ["White", "Red"],
+        "flagDate": "27/02/1868",
+        "flagRGB": ["255, 255, 255", "188, 0, 45"]
+    },
+    {
+        "name": "Jordan",
+        "full_name": "Hashemite Kingdom of Jordan",
+        "full_name_native": "المملكة الأردنية الهاشمية",
+        "code": "JO",
+        "continent": "Asia",
+        "capital": "Amman",
+        "language": "Arabic",
+        "area": 89000,
+        "population": 11484000,
+        "currency": "Dinar (JOD)",
+        "timezone": "UTC+02",
+
+        "flagColors": ["Red", "Black", "White", "Green"],
+        "flagDate": "16/04/1928",
+        "flagRGB": ["206, 17, 38", "0, 0, 0", "255, 255, 255", "0, 122, 61"]
+    },
+    {
+        "name": "Kazakhstan",
+        "full_name": "Republic of Kazakhstan",
+        "full_name_native": "Қазақстан Республикасы",
+        "code": "KZ",
+        "continent": "Asia",
+        "capital": "Nur-Sultan",
+        "language": "Kazakh, Russian",
+        "area": 2724000,
+        "population": 20286000,
+        "currency": "Tenge (KZT)",
+        "timezone": "UTC+05 to UTC+06",
+
+        "flagColors": ["Blue", "Yellow"],
+        "flagDate": "04/061992",
+        "flagRGB": ["0, 175, 202", "254, 197, 12"]
+    },
+    {
+        "name": "Kuwait",
+        "full_name": "State of Kuwait",
+        "full_name_native": "دولة الكويت",
+        "code": "KW",
+        "continent": "Asia",
+        "capital": "Kuwait City",
+        "language": "Arabic",
+        "area": 17000,
+        "population": 4985000,
+        "currency": "Dinar (KWD)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Black", "Green", "White", "Red"],
+        "flagDate": "07/09/1961",
+        "flagRGB": ["0, 0, 0", "0, 122, 61", "255, 255, 255", "206, 17, 38"]
+    },
+    {
+        "name": "Kyrgyzstan",
+        "full_name": "Kyrgyz Republic",
+        "full_name_native": "Кыргыз Республикасы",
+        "code": "KG",
+        "continent": "Asia",
+        "capital": "Bishkek",
+        "language": "Kyrgyz, Russian",
+        "area": 200000,
+        "population": 7300000,
+        "currency": "Som (KGS)",
+        "timezone": "UTC+06",
+
+        "flagColors": ["Red", "Yellow"],
+        "flagDate": "03/03/1992",
+        "flagRGB": ["255, 0, 0", "255, 255, 0"]
+    },
+    {
+        "name": "Laos",
+        "full_name": "Lao People's Democratic Republic",
+        "full_name_native": "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊາດລາວ",
+        "code": "LA",
+        "continent": "Asia",
+        "capital": "Vientiane",
+        "language": "Lao",
+        "area": 236000,
+        "population": 7953000,
+        "currency": "Kip (LAK)",
+        "timezone": "UTC+07",
+
+        "flagColors": ["Red", "Blue", "White"],
+        "flagDate": "12/10/1945",
+        "flagRGB": ["206, 17, 38", "0, 40, 104", "255, 255, 255"]
+    },
+    {
+        "name": "Lebanon",
+        "full_name": "Lebanese Republic",
+        "full_name_native": "الجمهورية اللبنانية",
+        "code": "LB",
+        "continent": "Asia",
+        "capital": "Beirut",
+        "language": "Arabic",
+        "area": 10000,
+        "population": 5364000,
+        "currency": "Pound (LBP)",
+        "timezone": "UTC+02",
+
+        "flagColors": ["Red", "White", "Green"],
+        "flagDate": "07/12/1943",
+        "flagRGB": ["216, 28, 34", "255, 255, 255", "1, 158, 63"]
+    },
+    {
+        "name": "Malaysia",
+        "full_name": "Federation of Malaysia",
+        "full_name_native": "Persekutuan Malaysia",
+        "code": "MY",
+        "continent": "Asia",
+        "capital": "Kuala Lumpur",
+        "language": "Malay",
+        "area": 330000,
+        "population": 34564000,
+        "currency": "Ringgit (MYR)",
+        "timezone": "UTC+08",
+
+        "flagColors": ["Blue", "Yellow", "Red", "White"],
+        "flagDate": "26/05/1950",
+        "flagRGB": ["0, 50, 160", "255, 209, 0", "204, 0, 0", "255, 255, 255"]
+    },
+    {
+        "name": "Maldives",
+        "full_name": "Republic of Maldives",
+        "full_name_native": "ދިވެހި ރުފީލް",
+        "code": "MV",
+        "continent": "Asia",
+        "capital": "Mal",
+        "language": "Dhivehi",
+        "area": 298,
+        "population": 601000,
+        "currency": "Rufiyaa (MVR)",
+        "timezone": "UTC+05",
+
+        "flagColors": ["Red", "Green", "White"],
+        "flagDate": "25/07/1965",
+        "flagRGB": ["200, 16, 46", "0, 132, 61", "255, 255, 255"]
+    },
+    {
+        "name": "Mongolia",
+        "full_name": "Mongolia",
+        "full_name_native": "Монгол Улс",
+        "code": "MN",
+        "continent": "Asia",
+        "capital": "Ulaanbaatar",
+        "language": "Mongolian",
+        "area": 1564000,
+        "population": 3504000,
+        "currency": "Tugrik (MNT)",
+        "timezone": "UTC+08",
+
+        "flagColors": ["Red", "Blue", "Yellow"],
+        "flagDate": "10/06/1945",
+        "flagRGB": ["218, 32, 50", "0, 102, 179", "255, 217, 0"]
+    },
+    {
+        "name": "Myanmar",
+        "full_name": "Republic of the Union of Myanmar",
+        "full_name_native": "ပြည်ထောင်စု မြန်မာနိုင်ငံ",
+        "code": "MM",
+        "continent": "Asia",
+        "capital": "Naypyidaw",
+        "language": "Burmese",
+        "area": 676000,
+        "population": 55770000,
+        "currency": "Kyat (MMK)",
+        "timezone": "UTC+06:30",
+
+        "flagColors": ["Yellow", "Green", "Red", "White"],
+        "flagDate": "21/10/2010",
+        "flagRGB": ["255, 205, 0", "67, 176, 42", "238, 39, 55", "255, 255, 255"]
+    },
+    {
+        "name": "Nepal",
+        "full_name": "Federal Democratic Republic of Nepal",
+        "full_name_native": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+        "code": "NP",
+        "continent": "Asia",
+        "capital": "Kathmandu",
+        "language": "Nepali",
+        "area": 147000,
+        "population": 31122000,
+        "currency": "Rupee (NPR)",
+        "timezone": "UTC+05:45",
+
+        "flagColors": ["Red", "White", "Blue"],
+        "flagDate": "16/12/1962",
+        "flagRGB": ["220, 20, 60", "255, 255, 255", "0, 56, 147"]
+    },
+    {
+        "name": "North_Korea",
+        "full_name": "Democratic People's Republic of Korea",
+        "full_name_native": "조선민주주의인민공화국",
+        "code": "KP",
+        "continent": "Asia",
+        "capital": "Pyongyang",
+        "language": "Korean",
+        "area": 120000,
+        "population": 26298000,
+        "currency": "Won (KPW)",
+        "timezone": "UTC+09",
+
+        "flagColors": ["Red", "Blue", "White"],
+        "flagDate": "10/07/1948",
+        "flagRGB": ["237, 28, 39", "2, 79, 162", "255, 255, 255"]
+    },
+    {
+        "name": "Oman",
+        "full_name": "Sultanate of Oman",
+        "full_name_native": "سلطنة عمان",
+        "code": "OM",
+        "continent": "Asia",
+        "capital": "Muscat",
+        "language": "Arabic",
+        "area": 315000,
+        "population": 5494000,
+        "currency": "Rial (OMR)",
+        "timezone": "UTC+04",
+
+        "flagColors": ["Red", "White", "Green"],
+        "flagDate": "22/05/2004",
+        "flagRGB": ["200, 16, 46", "255, 255, 255", "0, 154, 68"]
+    },
+    {
+        "name": "Pakistan",
+        "full_name": "Islamic Republic of Pakistan",
+        "full_name_native": "اسلامی جمہوریہ پاکستان",
+        "code": "PK",
+        "continent": "Asia",
+        "capital": "Islamabad",
+        "language": "Urdu, English",
+        "area": 881000,
+        "population": 241499000,
+        "currency": "Rupee (PKR)",
+        "timezone": "UTC+05",
+
+        "flagColors": ["Green", "White"],
+        "flagDate": "11/08/1947",
+        "flagRGB": ["17, 87, 64", "255, 255, 255"]
+    },
+    {
+        "name": "Philippines",
+        "full_name": "Republic of the Philippines",
+        "full_name_native": "Republika ng Pilipinas",
+        "code": "PH",
+        "continent": "Asia",
+        "capital": "Manila",
+        "language": "Filipino, English",
+        "area": 300000,
+        "population": 112729000,
+        "currency": "Peso (PHP)",
+        "timezone": "UTC+08",
+
+        "flagColors": ["White", "Blue", "Red", "Yellow"],
+        "flagDate": "12/06/1898",
+        "flagRGB": ["255, 255, 255", "0, 50, 160", "191, 13, 62", "254, 209, 65"]
+    },
+    {
+        "name": "Qatar",
+        "full_name": "State of Qatar",
+        "full_name_native": "دولة قطر",
+        "code": "QA",
+        "continent": "Asia",
+        "capital": "Doha",
+        "language": "Arabic",
+        "area": 11000,
+        "population": 3173000,
+        "currency": "Rial (QAR)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "09/07/1971",
+        "flagRGB": ["138, 21, 56", "255, 255, 255"]
+    },
+    {
+        "name": "Saudi_Arabia",
+        "full_name": "Kingdom of Saudi Arabia",
+        "full_name_native": "المملكة العربية السعودية",
+        "code": "SA",
+        "continent": "Asia",
+        "capital": "Riyadh",
+        "language": "Arabic",
+        "area": 2149000,
+        "population": 32175000,
+        "currency": "Riyal (SAR)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Green", "White"],
+        "flagDate": "15/03/1973",
+        "flagRGB": ["22, 93, 49", "255, 255, 255"]
+    },
+    {
+        "name": "Singapore",
+        "full_name": "Republic of Singapore",
+        "full_name_native": "Republik Singapura",
+        "code": "SG",
+        "continent": "Asia",
+        "capital": "Singapore",
+        "language": "English, Malay, Mandarin, Tamil",
+        "area": 736,
+        "population": 6110000,
+        "currency": "Dollar (SGD)",
+        "timezone": "UTC+08",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "03/12/1959",
+        "flagRGB": ["238, 37, 54", "255, 255, 255"]
+    },
+    {
+        "name": "South_Korea",
+        "full_name": "Republic of Korea",
+        "full_name_native": "대한민국",
+        "code": "KR",
+        "continent": "Asia",
+        "capital": "Seoul",
+        "language": "Korean",
+        "area": 100000,
+        "population": 52081000,
+        "currency": "Won (KRW)",
+        "timezone": "UTC+09",
+
+        "flagColors": ["White", "Red", "Blue", "Black"],
+        "flagDate": "27/01/1883",
+        "flagRGB": ["255, 255, 255", "205, 46, 58", "15, 100, 205", "0, 0, 0"]
+    },
+    {
+        "name": "Sri_Lanka",
+        "full_name": "Democratic Socialist Republic of Sri Lanka",
+        "full_name_native": "ශ්‍රී ලංකා ප්‍රජාතන්ත්‍රික සමාජවාදී ජනරජය",
+        "code": "LK",
+        "continent": "Asia",
+        "capital": "Sri Jayawardenepura Kotte",
+        "language": "Sinhala, Tamil",
+        "area": 67000,
+        "population": 21916000,
+        "currency": "Rupee (LKR)",
+        "timezone": "UTC+05:30",
+
+        "flagColors": ["Yellow", "Green", "Orange", "Red"],
+        "flagDate": "22/05/1972",
+        "flagRGB": ["255, 190, 41", "0, 83, 78", "235, 116, 0", "141, 21, 58"]
+    },
+    {
+        "name": "Syria",
+        "full_name": "Syrian Arab Republic",
+        "full_name_native": "الجمهورية العربية السورية",
+        "code": "SY",
+        "continent": "Asia",
+        "capital": "Damascus",
+        "language": "Arabic",
+        "area": 185000,
+        "population": 26019000,
+        "currency": "Pound (SYP)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Green", "White", "Black", "Red"],
+        "flagDate": "2011",
+        "flagRGB": ["0, 122, 61", "255, 255, 255", "0, 0, 0", "206, 17, 38"]
+    },
+    {
+        "name": "Taiwan",
+        "full_name": "Republic of China (Taiwan)",
+        "full_name_native": "中華民國",
+        "code": "TW",
+        "continent": "Asia",
+        "capital": "Taipei",
+        "language": "Mandarin",
+        "area": 36000,
+        "population": 23396000,
+        "currency": "Dollar (TWD)",
+        "timezone": "UTC+08",
+
+        "flagColors": ["Red", "Blue", "White"],
+        "flagDate": "25/10/1945",
+        "flagRGB": ["254, 0, 0", "0, 0, 149", "255, 255, 255"]
+    },
+    {
+        "name": "Tajikistan",
+        "full_name": "Republic of Tajikistan",
+        "full_name_native": "Ҷумҳурии Тоҷикистон",
+        "code": "TJ",
+        "continent": "Asia",
+        "capital": "Dushanbe",
+        "language": "Tajik",
+        "area": 143000,
+        "population": 10786000,
+        "currency": "Somoni (TJS)",
+        "timezone": "UTC+05",
+
+        "flagColors": ["Red", "White", "Green", "Yellow"],
+        "flagDate": "24/11/1992",
+        "flagRGB": ["204, 0, 0", "255, 255, 255", "0, 102, 0", "248, 195, 0"]
+    },
+    {
+        "name": "Thailand",
+        "full_name": "Kingdom of Thailand",
+        "full_name_native": "ราชอาณาจักรไทย",
+        "code": "TH",
+        "continent": "Asia",
+        "capital": "Bangkok",
+        "language": "Thai",
+        "area": 513000,
+        "population": 65975000,
+        "currency": "Baht (THB)",
+        "timezone": "UTC+07",
+
+        "flagColors": ["Red", "White", "Blue"],
+        "flagDate": "28/09/1917",
+        "flagRGB": ["239, 51, 64", "255, 255, 255", "0, 36, 125"]
+    },
+    {
+        "name": "Timor_Leste",
+        "full_name": "Democratic Republic of Timor-Leste",
+        "full_name_native": "Repúblika Demokrátika Timór-Leste",
+        "code": "TL",
+        "continent": "Asia",
+        "capital": "Dili",
+        "language": "Portuguese, Tetum",
+        "area": 15000,
+        "population": 1354000,
+        "currency": "Dollar (USD)",
+        "timezone": "UTC+09",
+
+        "flagColors": ["Black", "Yellow", "Red", "White"],
+        "flagDate": "28/11/1975",
+        "flagRGB": ["0, 0, 0", "255, 199, 44", "218, 41, 28", "255, 255, 255"]
+    },
+    {
+        "name": "Turkiye",
+        "full_name": "Republic of Türkiye",
+        "full_name_native": "Türkiye Cumhuriyeti",
+        "code": "TR",
+        "continent": "Asia",
+        "capital": "Ankara",
+        "language": "Turkish",
+        "area": 783000,
+        "population": 85664000,
+        "currency": "Lira (TRY)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Red", "White"],
+        "flagDate": "29/05/1936",
+        "flagRGB": ["200, 16, 46", "255, 255, 255"]
+    },
+    {
+        "name": "Turkmenistan",
+        "full_name": "Turkmenistan",
+        "full_name_native": "Türkmenistan",
+        "code": "TM",
+        "continent": "Asia",
+        "capital": "Ashgabat",
+        "language": "Turkmen",
+        "area": 491000,
+        "population": 7057000,
+        "currency": "Manat (TMT)",
+        "timezone": "UTC+05",
+
+        "flagColors": ["Green", "Red", "Yellow", "White"],
+        "flagDate": "19/02/1992",
+        "flagRGB": ["0, 151, 57", "224, 60, 49", "255, 199, 44", "255, 255, 255"]
+    },
+    {
+        "name": "United_Arab_Emirates",
+        "full_name": "United Arab Emirates",
+        "full_name_native": "الإمارات العربية المتحدة",
+        "code": "AE",
+        "continent": "Asia",
+        "capital": "Abu Dhabi",
+        "language": "Arabic",
+        "area": 83000,
+        "population": 11027000,
+        "currency": "Dirham (AED)",
+        "timezone": "UTC+04",
+
+        "flagColors": ["Red", "Greed", "White", "Black"],
+        "flagDate": "02/12/1971",
+        "flagRGB": ["200, 16, 46", "0, 132, 61", "255, 255, 255", "0, 0, 0"]
+    },
+    {
+        "name": "Uzbekistan",
+        "full_name": "Republic of Uzbekistan",
+        "full_name_native": "Oʻzbekiston Respublikasi",
+        "code": "UZ",
+        "continent": "Asia",
+        "capital": "Tashkent",
+        "language": "Uzbek",
+        "area": 448000,
+        "population": 38000000,
+        "currency": "Som (UZS)",
+        "timezone": "UTC+05",
+
+        "flagColors": ["Blue", "White", "Green", "Red"],
+        "flagDate": "18/11/1991",
+        "flagRGB": ["0, 114, 206", "255, 255, 255", "67, 176, 42", "218, 41, 28"]
+    },
+    {
+        "name": "Vietnam",
+        "full_name": "Socialist Republic of Vietnam",
+        "full_name_native": "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+        "code": "VN",
+        "continent": "Asia",
+        "capital": "Hanoi",
+        "language": "Vietnamese",
+        "area": 331000,
+        "population": 100300000,
+        "currency": "Dong (VND)",
+        "timezone": "UTC+07",
+
+        "flagColors": ["Red", "Yellow"],
+        "flagDate": "23/11/1940",
+        "flagRGB": ["200, 16, 46", "255, 205, 0"]
+    },
+    {
+        "name": "Yemen",
+        "full_name": "Republic of Yemen",
+        "full_name_native": "الجمهورية اليمنية",
+        "code": "YE",
+        "continent": "Asia",
+        "capital": "Sana'a",
+        "language": "Arabic",
+        "area": 455000,
+        "population": 42091000,
+        "currency": "Rial (YER)",
+        "timezone": "UTC+03",
+
+        "flagColors": ["Red", "White", "Black"],
+        "flagDate": "22/05/1990",
+        "flagRGB": ["206, 17, 38", "255, 255, 255", "0, 0, 0"]
     }
 ]
