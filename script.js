@@ -23,12 +23,11 @@ function loadData(item) {
                             <tr><th>Continent</th><td><a href="../${countryData[0].continent}.html">${continentFormatted}</a></td></tr>
                             <tr><th>Capital</th><td>${countryData[0].capital}</td></tr>
                             <tr><th>Language</th><td>${countryData[0].language.split(',').join('<br>')}</td></tr>
-                            <tr><th>Area</th><td>${countryData[0].area.toLocaleString()} km2</td></tr>
-                            <tr><th>Population</th><td>${countryData[0].population.toLocaleString()}</td></tr>
+                            <tr><th>Area</th><td><a href="../${countryData[0].continent}/other/area.html">${countryData[0].area.toLocaleString()} km2</a></td></tr>
+                            <tr><th>Population</th><td><a href="../${countryData[0].continent}/other/population.html">${countryData[0].population.toLocaleString()}</a></td></tr>
                             <tr><th>Density</th><td>${(countryData[0].population / countryData[0].area).toFixed(2)} /km2</td></tr>
                             <tr><th>Currency</th><td>${countryData[0].currency}</td></tr>
                             <tr><th>Timezone</th><td>${countryData[0].timezone}</td></tr>
-                            <tr><th>Anthem</th><td>${countryData[0].anthem}</td></tr>
                         </tbody>
                     </table>
                     <hr>
@@ -48,11 +47,13 @@ function loadData(item) {
                         <tbody>
                             ${countryData[0].flagColors.map((color, index) => {
                                 const rgbValues = countryData[0].flagRGB[index].split(',');
+                                const rgbColor = `rgb(${rgbValues[0]}, ${rgbValues[1]}, ${rgbValues[2]})`;
+                                const textColor = getTextColor(rgbColor);
                                 return `
-                                    <tr>
-                                        <th>${color}</th>
-                                        ${rgbValues.map((value, i) => `<td>${value.trim()}</td>`).join('')}
-                                    </tr>
+                                <tr>
+                                    <th style="color: ${textColor}; background-color: ${rgbColor};">${color}</th>
+                                    ${rgbValues.map((value, i) => `<td>${value.trim()}</td>`).join('')}
+                                </tr>
                                 `;
                             }).join('')}
                         </tbody>
@@ -64,6 +65,15 @@ function loadData(item) {
             })
             .catch(error => console.error(error));
     }
+}
+
+function getTextColor(backgroundColor) {
+    const rgb = backgroundColor.match(/\d+/g);
+    const red = parseInt(rgb[0]);
+    const green = parseInt(rgb[1]);
+    const blue = parseInt(rgb[2]);
+    const brightness = (red * 299 + green * 587 + blue * 114) / 1000;
+    return brightness > 125 ? '#000000' : '#ffffff';
 }
 
 countryPage.forEach(loadData);
