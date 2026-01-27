@@ -75,7 +75,7 @@ ul{
     text-align: center;
 }
 
-.continent img{
+.continent img, #world img{
     max-width: 360px;
     border-radius: 10px;
 }
@@ -103,7 +103,7 @@ table{
     border-collapse: collapse;
     text-align: center;
     margin: 1em;
-    max-width: 1280px;
+    max-width: 720px;
 }
 
 th, td{
