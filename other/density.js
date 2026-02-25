@@ -74,7 +74,7 @@ fetch('country.json')
 					<td>South America</td>
 					<td>${(totalSouthAmericaDensity).toFixed(2)}</td>
 				</tr>
-				<tr class="grayscale">
+				<tr>
 					<td>6</td>
 					<td><a href="../Oceania.html"><img class="flag" src="../assets/continent/Oceania.png"></a></td>
 					<td>Oceania</td>

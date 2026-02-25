@@ -118,7 +118,8 @@ a:hover {
 
 a:hover img{
     /* filter: drop-shadow(5px 5px 5px var(--darkGray)); */
-    transform: scale(1.1);
+    transform: scale(1.1) rotate(1deg) ;
+    transition: 0.1s;
 }
 
 .grayscale{
