@@ -67,7 +67,7 @@ fetch('country.json')
 					<td>${totalEuropePopulation.toLocaleString()}</td>
 					<td>${((totalEuropePopulation / totalPopulation) * 100).toFixed(2)}%</td>
 				</tr>
-				<tr class="grayscale">
+				<tr>
 					<td>4</td>
 					<td><a href="../North_America.html"><img class="flag" src="../assets/continent/North_America.png"></a></td>
 					<td>North America</td>

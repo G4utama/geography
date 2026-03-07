@@ -114,11 +114,11 @@ th, td{
 
 a:hover {
     text-decoration: underline;
+    color: red;
 }
 
 a:hover img{
-    /* filter: drop-shadow(5px 5px 5px var(--darkGray)); */
-    transform: scale(1.1) rotate(1deg) ;
+    transform: scale(1.1);
     transition: 0.1s;
 }
 
