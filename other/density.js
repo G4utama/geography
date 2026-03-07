@@ -46,27 +46,27 @@ fetch('country.json')
 				</tr>
 				<tr>
 					<td>1</td>
+					<td><a href="../Europe.html"><img class="flag" src="../assets/continent/Europe.png"></a></td>
+					<td>Europe</td>
+					<td>${(totalEuropeDensity).toFixed(2)}</td>
+				</tr>
+				<tr>
+					<td>2</td>
 					<td><a href="../Asia.html"><img class="flag" src="../assets/continent/Asia.png"></a></td>
 					<td>Asia</td>
 					<td>${(totalAsiaDensity).toFixed(2)}</td>
 				</tr>
 				<tr>
-					<td>2</td>
-					<td><a href="../Europe.html"><img class="flag" src="../assets/continent/Europe.png"></a></td>
-					<td>Europe</td>
-					<td>${(totalEuropeDensity).toFixed(2)}</td>
-				</tr>
-				<tr class="grayscale">
 					<td>3</td>
-					<td><a href="../Africa.html"><img class="flag" src="../assets/continent/Africa.png"></a></td>
-					<td>Africa</td>
-					<td>${(totalAfricaDensity).toFixed(2)}</td>
-				</tr>
-				<tr class="grayscale">
-					<td>4</td>
 					<td><a href="../North_America.html"><img class="flag" src="../assets/continent/North_America.png"></a></td>
 					<td>North America</td>
 					<td>${(totalNorthAmericaDensity).toFixed(2)}</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td><a href="../Oceania.html"><img class="flag" src="../assets/continent/Oceania.png"></a></td>
+					<td>Oceania</td>
+					<td>${(totalOceaniaDensity).toFixed(2)}</td>
 				</tr>
 				<tr>
 					<td>5</td>
@@ -74,11 +74,11 @@ fetch('country.json')
 					<td>South America</td>
 					<td>${(totalSouthAmericaDensity).toFixed(2)}</td>
 				</tr>
-				<tr>
+				<tr class="grayscale">
 					<td>6</td>
-					<td><a href="../Oceania.html"><img class="flag" src="../assets/continent/Oceania.png"></a></td>
-					<td>Oceania</td>
-					<td>${(totalOceaniaDensity).toFixed(2)}</td>
+					<td><a href="../Africa.html"><img class="flag" src="../assets/continent/Africa.png"></a></td>
+					<td>Africa</td>
+					<td>${(totalAfricaDensity).toFixed(2)}</td>
 				</tr>
 				<tr class="grayscale">
 					<td>7</td>
